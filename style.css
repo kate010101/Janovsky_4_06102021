@@ -651,11 +651,11 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: black!important;
+    color: #303030!important;
 }
 
 .col-sm-4 {
-    color: black;
+    color: #303030;
 }
 
 .container {
